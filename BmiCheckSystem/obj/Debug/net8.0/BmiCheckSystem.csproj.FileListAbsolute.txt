@@ -1,0 +1,14 @@
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\bin\Debug\net8.0\BmiCheckSystem.exe
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\bin\Debug\net8.0\BmiCheckSystem.deps.json
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\bin\Debug\net8.0\BmiCheckSystem.runtimeconfig.json
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\bin\Debug\net8.0\BmiCheckSystem.dll
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\bin\Debug\net8.0\BmiCheckSystem.pdb
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\obj\Debug\net8.0\BmiCheckSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\obj\Debug\net8.0\BmiCheckSystem.AssemblyInfoInputs.cache
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\obj\Debug\net8.0\BmiCheckSystem.AssemblyInfo.cs
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\obj\Debug\net8.0\BmiCheckSystem.csproj.CoreCompileInputs.cache
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\obj\Debug\net8.0\BmiCheckSystem.dll
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\obj\Debug\net8.0\refint\BmiCheckSystem.dll
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\obj\Debug\net8.0\BmiCheckSystem.pdb
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\obj\Debug\net8.0\BmiCheckSystem.genruntimeconfig.cache
+C:\Users\AjikashileNneamakaCe\OneDrive - LG-Academy\BmiCheckSystem\obj\Debug\net8.0\ref\BmiCheckSystem.dll

@@ -1,0 +1,27 @@
+{
+  "Andrew Drew": {
+    "Username": "Andrew Drew",
+    "Password": "idrew",
+    "BMI": 21.224489795918366
+  },
+  "Tim New": {
+    "Username": "Tim New",
+    "Password": "amnew",
+    "BMI": 23.148148148148145
+  },
+  "Dami See": {
+    "Username": "Dami See",
+    "Password": "isee",
+    "BMI": 20.515086478979924
+  },
+  "Amyjones": {
+    "Username": "Amyjones",
+    "Password": "miami",
+    "BMI": 24.83576349943919
+  },
+  "suzzy": {
+    "Username": "suzzy",
+    "Password": "sue",
+    "BMI": 24.83576349943919
+  }
+}
